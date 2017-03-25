@@ -1,0 +1,20 @@
+<videos>
+	<video>
+		<id>1</id>
+		<thumbnail>media/basketball.jpg</thumbnail>
+		<title>Basket Ball</title>
+		<desc>Hip Hop Basket ball crazy</desc>
+	</video>
+	<video>
+		<id>2</id>
+		<thumbnail>media/video01.jpg</thumbnail>
+		<title>Dog Run</title>
+		<desc>This video is story about a dog, who is running on street.</desc>
+	</video>
+	<video>
+		<id>3</id>
+		<thumbnail>media/video02.jpg</thumbnail>
+		<title>Rat Run</title>
+		<desc>Genius rat realize how to generate electricity, he is the first rat invent electrons</desc>
+	</video>
+</videos>
